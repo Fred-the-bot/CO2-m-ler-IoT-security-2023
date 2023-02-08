@@ -8,6 +8,7 @@ Projektet består af en cloud server hosted i Azure (håbefuldt rykkes til egen 
 Se plantUML nedunder:
 
 
+![image](https://user-images.githubusercontent.com/32704145/217624407-7782ff0a-c591-4cd5-bf04-c9df263d4730.png)
 
 
 
