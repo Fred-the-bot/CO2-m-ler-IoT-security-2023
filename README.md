@@ -16,3 +16,7 @@ Se plantUML nedunder:
 
 
 Resultaterne skal sende fra ESP32 med en hjemmebrygget krypterings metode.
+
+
+Der gøres brug af en diffehelman key exchange til at kryptere beskederne med for at skulle undgå en hacker.
+![image](https://user-images.githubusercontent.com/32704145/217820943-8d92fcbf-a589-4ad0-9f90-a15ce0c91ef4.png)
