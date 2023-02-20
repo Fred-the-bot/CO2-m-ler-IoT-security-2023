@@ -1,5 +1,7 @@
 # CO2-måler-IoT-security-2023
 
+Besked fra Henning:
+Der findes mange simple metoder og biblioteker til at kryptere tekst, både til python og arduino, det er for simpelt at udnytte dem. find på jeres egen istedet
 
 
 Projektet består af en cloud server hosted i Azure (håbefuldt rykkes til egen server)
