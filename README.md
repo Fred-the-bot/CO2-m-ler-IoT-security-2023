@@ -24,3 +24,6 @@ Der gøres brug af en diffehelman key exchange til at kryptere beskederne med fo
 ![image](https://user-images.githubusercontent.com/32704145/217820943-8d92fcbf-a589-4ad0-9f90-a15ce0c91ef4.png)
 
 https://techtutorialsx.com/2018/04/18/esp32-arduino-encryption-using-aes-128-in-ecb-mode/
+
+
+&#x2610; Connect screen to ESP32
