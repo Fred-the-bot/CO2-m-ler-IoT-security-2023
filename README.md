@@ -27,3 +27,9 @@ https://techtutorialsx.com/2018/04/18/esp32-arduino-encryption-using-aes-128-in-
 
 ### Things to Do ###
 &#x2610; Connect screen to ESP32
+&#x2610; Connect CO måler til ESP32
+&#x2610; Create encryption on ESP32
+
+&#x2610; Create listening server
+&#x2610; Connect listening server to thingspeak
+&#x2610; Create encryption on listening server
