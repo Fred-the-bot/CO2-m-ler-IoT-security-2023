@@ -25,16 +25,16 @@ Der gøres brug af en diffehelman key exchange til at kryptere beskederne med fo
 
 https://techtutorialsx.com/2018/04/18/esp32-arduino-encryption-using-aes-128-in-ecb-mode/
 
-### Things to Do ###
+## Things to Do ##
 
-## ESP32 ##
+# ESP32 #
 &#x2610; Connect screen to ESP32
 
 &#x2610; Connect CO måler til ESP32
 
 &#x2610; Create encryption on ESP32
 
-## Listening server ##
+# Listening server #
 &#x2610; Create listening server
 
 &#x2610; Connect listening server to thingspeak
