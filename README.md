@@ -41,4 +41,13 @@ https://techtutorialsx.com/2018/04/18/esp32-arduino-encryption-using-aes-128-in-
 
 &#x2610; Connect listening server to thingspeak
 
-&#x2610; Create encryption on listening server
+&#x2610; Create decryption on listening server
+
+#### Hacking ####
+&#x2610; Hack into wifi
+
+&#x2610; Capture packet with info
+
+&#x2610; Modify data
+
+&#x2610; Remail undetected
