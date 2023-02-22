@@ -36,6 +36,8 @@ https://techtutorialsx.com/2018/04/18/esp32-arduino-encryption-using-aes-128-in-
 
 &#x2610; Create encryption on ESP32
 
+&#x2610; Secure OTA update
+
 #### Listening server ####
 &#x2610; Create listening server
 
