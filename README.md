@@ -1,4 +1,4 @@
-# CO2-måler-IoT-security-2023
+# CO-måler-IoT-security-2023
 
 Besked fra Henning:
 Der findes mange simple metoder og biblioteker til at kryptere tekst, både til python og arduino, det er for simpelt at udnytte dem. find på jeres egen istedet
@@ -6,7 +6,7 @@ Der findes mange simple metoder og biblioteker til at kryptere tekst, både til 
 
 Projektet består af en cloud server hosted i Azure (håbefuldt rykkes til egen server)
 
-1 ESP32 som måler CO2 og sender resultatet til cloud.
+1 ESP32 som måler CO og sender resultatet til cloud.
 Se plantUML nedunder:
 
 
