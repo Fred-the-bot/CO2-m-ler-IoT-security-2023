@@ -1,4 +1,3 @@
-from machine import RTC
 import urandom
 
 # Define the prime number and generator for Diffie-Hellman
@@ -23,9 +22,6 @@ def modular_pow(base, exp, modulus):
 # Generate a private and public Diffie-Hellman key pair
 # Returns true on success, false on failure
 def generate_dh_keypair():
-    # Seed the random number generator
-    rtc = RTC()
-    urandom.seed(rtc.datetime())
 
     # Generate a random private key
     private_key = random_number()
