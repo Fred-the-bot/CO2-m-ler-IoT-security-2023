@@ -2,8 +2,8 @@ import network
 import usocket as socket
 import machine
 # set the access point name and password
-ap_name = "connect"
-ap_password = "12345678"
+ap_name = "IoT_CO_Captive_portal"
+ap_password = "passw0rd"
 
 
 
@@ -60,7 +60,7 @@ def captive_portal():
             # save the SSID and password to a file
                 with open('wifi.txt', 'w') as f:
                     f.write(ssid + '\n' + password)
-                    f.close
+                    f.close()
 
             # send a response to the client
                 #response = "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n"
@@ -87,13 +87,11 @@ def captive_portal():
 print("HELLO WORLD")
 
 try:
-    f = open('wifi.txt', "r")
-    print(f)
-    print("True")
-    f.close
-    # continue with the file.
+    with open ('wifi.txt',"r") as f:
+        for line in f:
+            print(line)
 except OSError:  # open failed
-   print("ERROR!")
    captive_portal()
    
+
 
