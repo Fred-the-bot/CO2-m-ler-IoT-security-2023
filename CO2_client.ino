@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include "encryption.h"
 const char* ssid = "Det_ved_jeg";
-const char* password =  "Vfp62rxu";
+const char* password =  "PASS";
  
 const uint16_t port = 8090;
 const char * host = "192.168.1.247";
